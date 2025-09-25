@@ -1,4 +1,5 @@
 # Тема: огляд сервісів для прототипування
 ## Хід роботи: 
 ## 1. Заходимо на сайт та починаємо створювати акаунт. Спочатку вводимо свою електрону адресу та пароль, а потім - ім'я.
-! [risunok_1](https://github.com/user-attachments/assets/43d54c40-c3b1-432e-8e39-46678dfe2e98)
+
+![risunok_1](https://github.com/user-attachments/assets/de225222-5c1a-4bb5-87a2-c9cffee93d7c)
