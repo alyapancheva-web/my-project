@@ -6,3 +6,6 @@
 
 ## 2. Обрати для чого використовується програма Figma.
 ![risunok_2](https://github.com/user-attachments/assets/b2e5a41d-9326-4d76-b772-1b840a0bacd5)
+
+## 3. Далі обираємо те, що краще характеризує користувача.
+![risunok_3](https://github.com/user-attachments/assets/4ab664cb-8b1d-4365-b61e-bb0ca6569207)
