@@ -9,3 +9,6 @@
 
 ## 3. Далі обираємо те, що краще характеризує користувача.
 ![risunok_3](https://github.com/user-attachments/assets/4ab664cb-8b1d-4365-b61e-bb0ca6569207)
+
+## 4. На цьому етапі обираємо рівень навчального закладу.
+![risunok_4](https://github.com/user-attachments/assets/f17d28da-5ae3-4f92-b9d7-e71e3807c8f5)
