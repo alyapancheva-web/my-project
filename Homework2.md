@@ -1,5 +1,9 @@
 # ПРАКТИЧНА РОБОТА №2
 ## Тема: Робота з простими формами та їх властивостями у Figma
 
-# Спочатку заходимо у Figma та створюємо новий проект. та додаємо новий фрейм.
+## 1. Спочатку заходимо у Figma та створюємо новий проект. та додаємо новий фрейм.
 ![photo_01](https://github.com/user-attachments/assets/b75603f2-564a-4782-824b-57fadef013bd)
+## 2. Тепер додаємо 5 прямокутників за допомогою панелі інструментів.
+![photo_2](https://github.com/user-attachments/assets/c6548f03-272b-463a-badb-51a216e2ccaa)
+![photo_03](https://github.com/user-attachments/assets/fbd1d9c8-90c8-4bc6-925b-75a73fc991e2)
+## 3. 
