@@ -10,4 +10,8 @@
 ![photo_04](https://github.com/user-attachments/assets/3a92eede-8925-4be0-8949-cc776d3d7a98)
 ## 4. На цьому кроці змінюємо колір фігур.
 ![photo_05](https://github.com/user-attachments/assets/5e7815c0-0160-4ba6-8adb-a9237002bba4)
+## 5. Готовий результат:
+![photo_06](https://github.com/user-attachments/assets/1d27e361-5bc0-4db6-bcc4-bdb492501841)
 
+# Висновок: 
+## під час виконання цієї практичної роботи навчилася працювати з простими фігурами, змінювати їх форму і колір, та створила свій перший проект.
