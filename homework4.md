@@ -12,4 +12,4 @@
 ## Посилання:
 https://www.figma.com/design/qDHhRclxlI4QzxCiigwrQm/Untitled?node-id=0-1&t=YwYRQofoJAmcdK20-1
 ## Висновок:
-
+під час виконання цієї практичної роботи  я навчилася створювати та налаштовувати фрейми, групи і секції у Figma.
