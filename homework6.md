@@ -7,3 +7,10 @@
 ## 1. 
 ![photo_2025-10-29_13-57-19](https://github.com/user-attachments/assets/0e2dc541-73ac-4833-9dd2-b99e5e99e8ba)
 ## 2. 
+![photo_2025-10-29_13-58-04](https://github.com/user-attachments/assets/5c60ea7d-163e-4e1d-91c6-7221e7294480)
+## 3. 
+![photo_2025-10-29_14-01-34](https://github.com/user-attachments/assets/01d94841-538d-4f1c-b0fd-f5971557a180)
+## Посилання на дизайн у Figma
+https://www.figma.com/design/75mz6FWoUt4xUQf1iIgjbF/Untitled?node-id=0-1&t=zjanGsI9OS7NdWTF-1
+## Висновок:
+### під час виконання практичної роботи я навчилася використовувати булеві групи для створення складних форм у Figma.
