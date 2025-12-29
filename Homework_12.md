@@ -1,1 +1,15 @@
-
+# ПЗ-12 Розробка wireframe.
+## Тема заняття
+### Створення wireframe для інтернет-магазину.
+## Хід роботи
+### Завдання
+#### Cтворити у Figma деталізований вайрфрейм сайту для інтернет-магазину (головна сторінка та 2-3 сторінки товару). Тематику обрати самостійно. Розмір екранів - desktop. 2.Використати інструменти прототипування і зробити клікабельний прототип на основі вайфрейму.
+## Результат
+![photo_2025-12-29_03-32-18](https://github.com/user-attachments/assets/bf55b358-b0bb-482f-b7bc-f488caaea039)
+![photo_2025-12-29_03-32-48](https://github.com/user-attachments/assets/87b27796-c531-44a6-b7b0-0ec0c02bf6ad)
+![photo_2025-12-29_03-33-00](https://github.com/user-attachments/assets/1e84cdf7-70d6-4822-9805-085042fca230)
+![photo_2025-12-29_03-33-04](https://github.com/user-attachments/assets/7af1d021-db63-4500-aef2-81b7af2542df)
+![photo_2025-12-29_03-33-10](https://github.com/user-attachments/assets/4f368e80-6a1a-4bd8-9abc-c7f332a7d5f2)
+![photo_2025-12-29_03-33-16](https://github.com/user-attachments/assets/ae61f102-2cbc-4208-b3db-37943601bfac)
+![photo_2025-12-29_03-32-54](https://github.com/user-attachments/assets/d56553ae-ce95-4c29-9158-827b7b54b4f7)
+![photo_2025-12-29_03-33-23](https://github.com/user-attachments/assets/2580d81a-aa6c-40ec-b585-a208e67e92c7)
